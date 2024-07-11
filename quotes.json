@@ -1,52 +1,52 @@
 [
     {
         "id": 1,
-        "text": "'No te conformes con menos de lo que mereces.'",
+        "quote_text": "'No te conformes con menos de lo que mereces.'",
         "author": "Anónimo"
     },
     {
         "id": 2,
-        "text": "'Fallar es parte del éxito. Cada tropiezo te acerca más a tus metas.'",
+        "quote_text": "'Fallar es parte del éxito. Cada tropiezo te acerca más a tus metas.'",
         "author": "Michael Jordan"
     },
     {
         "id": 3,
-        "text": "'Sé tú mismo y arrasa todos los días'",
+        "quote_text": "'Sé tú mismo y arrasa todos los días'",
         "author": "Anónimo"
     },
     {
         "id": 4,
-        "text": "'Confía en ti mismo y todo será posible.'",
+        "quote_text": "'Confía en ti mismo y todo será posible.'",
         "author": "Anónimo"
     },
     {
         "id": 5,
-        "text": "'Disfruta lo que haces y lo harás genial.'",
+        "quote_text": "'Disfruta lo que haces y lo harás genial.'",
         "author": "Steve Jobs"
     },
     {
         "id": 6,
-        "text": "'No dejes que el miedo te detenga. Ve por lo que quieres.'",
+        "quote_text": "'No dejes que el miedo te detenga. Ve por lo que quieres.'",
         "author": "Robert Kiyosaki"
     },
     {
         "id": 7,
-        "text": "'Tu tiempo es tuyo, úsalo sabiamente.'",
+        "quote_text": "'Tu tiempo es tuyo, úsalo sabiamente.'",
         "author": "Steve Jobs"
     },
     {
         "id": 8,
-        "text": "'La felicidad es la clave del éxito, no al revés.'",
+        "quote_text": "'La felicidad es la clave del éxito, no al revés.'",
         "author": "Albert Schweitzer"
     },
     {
         "id": 9,
-        "text": "'La vida es 10% lo que te pasa y 90% cómo reaccionas.'",
+        "quote_text": "'La vida es 10% lo que te pasa y 90% cómo reaccionas.'",
         "author": "Charles R. Swindoll"
     },
     {
         "id": 10,
-        "text": "'La suerte es la combinación perfecta de preparación y oportunidad.'",
+        "quote_text": "'La suerte es la combinación perfecta de preparación y oportunidad.'",
         "author": "Seneca"
     }
 ]
